@@ -1,0 +1,90 @@
+
+.logo {
+
+    height: 91px;
+    width: 272px;
+
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.labela {
+    font-weight: bold; 
+    color: snow; 
+    font-size: x-large; 
+    font-family: sans-serif; 
+
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.inputLogIn { 
+    width: 300px;
+    height: 30px;
+
+    border-radius: 25px;
+
+    margin-left: 20px;
+
+
+    padding-left: 20px;
+
+    background-color: snow;
+    color: rgb(22, 22, 22);
+}
+
+.btn {
+    height: 35px;
+    width: 140px;
+
+    background-color: #63E095;
+    color: snow;
+    
+    margin-top: 150px;
+    margin-left: 103px;
+    margin-right: 110px;
+    margin-bottom: 50px;
+
+    border-radius: 15px;
+
+    font-size: x-large;
+    font-family: sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 7px;
+
+    user-select: none;
+}
+
+.link{
+    display: flex; 
+    justify-content: center; 
+    margin: 10px 15px; 
+    align-items: flex-end; 
+    text-decoration: none;
+
+    font-family: sans-serif;
+    font-size: medium;
+
+    user-select: none;
+}
+
+.infLabel{
+    display: flex;
+    align-items: center;
+
+    font-family: sans-serif;
+    font-size: small;
+    
+    color: red;
+
+    height: 20px;
+    width: 340px;
+
+    margin-left: 30px;
+    margin-right: 5px;
+}
+

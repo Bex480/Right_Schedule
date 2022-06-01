@@ -1,0 +1,103 @@
+
+.logo {
+
+    width: 45px;
+    height: 45px;
+
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.labela {
+    font-weight: bold; 
+    color: snow; 
+    font-size: x-large; 
+    font-family: sans-serif; 
+
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+.input { 
+    width: 285px;
+    height: 35px;
+
+    border-radius: 25px;
+
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-right: 20px;
+
+    padding-left: 20px;
+
+    background-color: rgb(204, 201, 201);
+    color: rgb(22, 22, 22);
+
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.btn {
+    height: 35px;
+    width: 180px;
+
+    background-color: #63E095;
+    color: snow;
+    
+    margin-top: 15px;
+    margin-left: 90px;
+    margin-right: 110px;
+    margin-bottom: 50px;
+
+    border-radius: 15px;
+
+    font-size: x-large;
+    font-family: sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 7px;
+
+    user-select: none;
+}
+
+.titleX{
+    font-family: sans-serif; 
+    font-weight: bold; 
+    font-size: x-large; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+.row{
+    display: flex;
+    flex-flow: row;
+}
+
+.column{
+    display: flex;
+    flex-flow: column;
+}
+
+.textArea{
+    height: 200px;
+    width: 300px;
+
+    border-radius: 15px;
+
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+
+    padding: 10px;
+    
+    background:rgb(204, 201, 201);
+    color: rgb(22, 22, 22);
+}
+
